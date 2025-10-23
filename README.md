@@ -80,9 +80,7 @@ All packages: Production-ready, actively maintained, PHPStan/Psalm validated
 
 ## 📫 Connect
 
-- 💼 LinkedIn: [linkedin.com/in/vasyl5](https://www.linkedin.com/in/vasyl5/)
-- 📧 Email: vsokolyk@gmail.com
-- 🐦 Twitter: [@sokolyk_vasyl](https://twitter.com/sokolyk_vasyl)
+- 💼 LinkedIn: [linkedin.com/in/sokolyk-vasyl](https://www.linkedin.com/in/sokolyk-vasyl/)
 - 🌐 GitHub: You're already here! 😊
 
 ---
